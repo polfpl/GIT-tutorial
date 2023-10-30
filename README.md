@@ -1,2 +1,2 @@
 # GIT-tutorial
-# repository is for learning perposes
+# repository is for learning purposes
